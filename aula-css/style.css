@@ -1,0 +1,25 @@
+.pai{
+    background-color: lightseagreen;
+    width: 600px;
+    height: 260px;
+    border: solid 2px purple;
+    margin: 10px;
+}
+
+.caixa{
+    background-color: olivedrab;
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+}
+.cor-padrao{
+    color: yellowgreen;
+    font-size: 50px;
+}
+.titulo{
+    font-family: monospace;
+}
+body{
+    font-family: sans-serif;
+    background-color: lightblue;
+}
